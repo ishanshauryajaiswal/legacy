@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="tmdb_api_key">TMDB_API_KEY</string>
+    <string name="overview">Overview</string>
+    <string name="fragment_popular">Popular</string>
+    <string name="fragment_top_rated">Top Rated</string>
+    <string name="release_date">"Release Date: "</string>
+    <string name="average">"Average: "</string>
+    <string name="toast_check_network">Check Network Connection</string>
+    <string name="base_url">http://api.themoviedb.org</string>
+    <string name="saved_list">saved_list</string>
+</resources>
