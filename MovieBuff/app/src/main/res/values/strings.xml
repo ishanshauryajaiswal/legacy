@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieBuff</string>
+    <string name="overview">Overview</string>
+    <string name="sharedPreferenceName">MoviePreferences</string>
+    <string name="isTwoPane">isTwoPane</string>
+    <string name="KEY_MLIST">mList</string>
+</resources>
